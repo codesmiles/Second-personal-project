@@ -1,0 +1,26 @@
+    body {
+      text-align: center;
+      background: url("https://imgur.com/17ksv9m.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    
+    img{
+      width:200px;
+      border-radius:50%;
+      margin-top:15%;
+      }
